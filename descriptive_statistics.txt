@@ -1,0 +1,12 @@
+        transaction_id       amount category  customer_age
+count       500.000000   500.000000      500    500.000000
+unique             NaN          NaN        4           NaN
+top                NaN          NaN    Bills           NaN
+freq               NaN          NaN      136           NaN
+mean        250.500000   501.025720      NaN     42.020000
+std         144.481833   147.188141      NaN     13.346905
+min           1.000000    13.810000      NaN     18.000000
+25%         125.750000   394.952500      NaN     30.750000
+50%         250.500000   501.920000      NaN     42.000000
+75%         375.250000   595.520000      NaN     53.250000
+max         500.000000  1077.910000      NaN     64.000000

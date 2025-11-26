@@ -1,0 +1,4 @@
+Key Findings:
+- Average transaction amount: 501.03
+- Most common category: Bills
+- Age range: 18 to 64
