@@ -1,2 +1,10 @@
-# Exploratory-Data-Analysis-of-Simulated-Customer-Transactions
-This project generates a synthetic dataset of customer transactions and performs exploratory data analysis to uncover patterns in transaction amounts, customer activity, and product categories. It includes summary statistics, distribution analysis, and key insights to understand overall customer spending behavior.
+# Exploratory Data Analysis of Simulated Customer Transactions
+
+This project generates a synthetic dataset of 1200 customer transactions and performs EDA including:
+- summary statistics
+- distribution plots
+- category analysis
+- unique customer count
+- average transaction amount
+
+All code is inside `src/` folder.
